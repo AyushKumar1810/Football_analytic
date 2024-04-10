@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+seaborn
+pandas
+mplsoccer
+statsbombpy
+pyarrow
+lxml
+tabulate
+highlight-text
+scikit-learn
